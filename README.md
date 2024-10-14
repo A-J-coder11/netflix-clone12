@@ -1,6 +1,8 @@
 # start
 Create react app 
 configured tailwindCSS
+Header,
+Login form
 
 
 
@@ -11,3 +13,9 @@ configured tailwindCSS
     -Then Authentication
     -Header
     -Main Movie
+        -Trailer in the background
+        -Title & Description
+        -Movie suggestions
+            - MovieLists of numbers
+--netflix
+    -search bar
