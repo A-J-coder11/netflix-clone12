@@ -3,6 +3,7 @@ Create react app
 configured tailwindCSS
 Header,
 Login form
+sign up form
 
 
 
